@@ -1,7 +1,7 @@
 # ipfire_payload
 Generate and encoded payload for IPFire reverse-shell
 
-You need to change ip and port in the script.
+You need to change ip and port in gen_payload.py
 
 Proof of Concept 4 :
 ======================================================================
